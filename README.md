@@ -1,16 +1,14 @@
-## Hi there 👋
+## Courtney Toller
 
-<!--
-**courtneytoller/courtneytoller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer focused on .NET, SQL Server, Flutter, and automation.
 
-Here are some ideas to get you started:
+- Six years building and running a production IoT monitoring platform: automated data pipelines, REST APIs, web dashboards, and a Flutter mobile app
+- Background in IT support and healthcare administration, with experience in HIPAA and other regulated environments
+- I enjoy automating repetitive work, building reliable data pipelines, and writing clear documentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech:** C# · ASP.NET Core (.NET 8) · SQL Server (T-SQL) · PowerShell · Flutter/Dart · JavaScript
+
+**Portfolio:** [courtneytoller.github.io](https://courtneytoller.github.io)  
+**Email:** courtneymtoller@gmail.com
+
+<sub>Most of my professional work lives in private repositories. Pinned repos are public samples.</sub>
